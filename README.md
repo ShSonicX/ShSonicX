@@ -1,5 +1,5 @@
 # Hi there, I'm Sonya 
-### But me friends call me Sonic
+### But my friends call me Sonic
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1Vae1JWTHZ6Ny/giphy.gif" width="300"/>
   <div><i>И я быстрей, чем Супер Соник, аккуратней, чем парктроник</i></div>
